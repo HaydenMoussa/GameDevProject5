@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 7a0feb8cc2d66d342b3ff64bf98b972c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5348014106063232427
+    second: SealSprite_0
+  - first:
+      213: -2647735010409857581
+    second: SealSprite_1
+  - first:
+      213: -6609267449502272723
+    second: SealSprite_2
+  - first:
+      213: -2488020907840309302
+    second: SealSprite_3
+  - first:
+      213: -4771361580050088047
+    second: SealSprite_4
+  - first:
+      213: 746289068835968614
+    second: SealSprite_5
+  - first:
+      213: 3547278473377747304
+    second: SealSprite_6
+  - first:
+      213: 615477661395804908
+    second: SealSprite_7
+  - first:
+      213: -799499705839669268
+    second: SealSprite_8
+  - first:
+      213: -4129173944156279339
+    second: SealSprite_9
+  - first:
+      213: -3153551593464931427
+    second: SealSprite_10
+  - first:
+      213: 3164055088128158867
+    second: SealSprite_11
+  - first:
+      213: 2125624316948325325
+    second: SealSprite_12
+  - first:
+      213: 8738100550262931273
+    second: SealSprite_13
+  - first:
+      213: 2067942829215548006
+    second: SealSprite_14
+  - first:
+      213: 955375790127432043
+    second: SealSprite_15
+  - first:
+      213: 7071758471379276900
+    second: SealSprite_16
+  - first:
+      213: -3127932528834347287
+    second: SealSprite_17
+  - first:
+      213: 2965929096832196405
+    second: SealSprite_18
+  - first:
+      213: 1457797358976360332
+    second: SealSprite_19
+  - first:
+      213: 2495792557213264216
+    second: SealSprite_20
+  - first:
+      213: 9123974688157692329
+    second: SealSprite_21
+  - first:
+      213: -1503788294797247171
+    second: SealSprite_22
+  - first:
+      213: 6541444448568898867
+    second: SealSprite_23
+  - first:
+      213: -2240517198791201581
+    second: SealSprite_24
+  - first:
+      213: -8917930707049889537
+    second: SealSprite_25
+  - first:
+      213: -2779921035108203132
+    second: SealSprite_26
+  - first:
+      213: 7263922199709085580
+    second: SealSprite_27
+  - first:
+      213: 3478187313742393442
+    second: SealSprite_28
+  - first:
+      213: -4543286880572460782
+    second: SealSprite_29
+  - first:
+      213: 9008828821244401944
+    second: SealSprite_30
+  - first:
+      213: 8579927399308365033
+    second: SealSprite_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SealSprite_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 246
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad5da59e76f73a40800000000000000
+      internalID: 5348014106063232427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 246
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddb72d490b514bd0800000000000000
+      internalID: -2647735010409857581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 247
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d237dd6a54a2744a0800000000000000
+      internalID: -6609267449502272723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 247
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7fe6a9a26c87dd0800000000000000
+      internalID: -2488020907840309302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 247
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ffa263ce7b8cdb0800000000000000
+      internalID: -4771361580050088047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 246
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66699bf34f95b5a00800000000000000
+      internalID: 746289068835968614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861121d2af67a3130800000000000000
+      internalID: 3547278473377747304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce26fae0cad9a8800800000000000000
+      internalID: 615477661395804908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 192
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefa563e04b97e4f0800000000000000
+      internalID: -799499705839669268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 192
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd24c2dc2a32b6c0800000000000000
+      internalID: -4129173944156279339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 192
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bd7a2b8855c34d0800000000000000
+      internalID: -3153551593464931427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 192
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c65a9b65bf8eb20800000000000000
+      internalID: 3164055088128158867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 144
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc323a1ed0cbf7d10800000000000000
+      internalID: 2125624316948325325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 97
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f311e6728f34970800000000000000
+      internalID: 8738100550262931273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 97
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6628537fb0fc2bc10800000000000000
+      internalID: 2067942829215548006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 97
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61cd85283d224d00800000000000000
+      internalID: 955375790127432043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 96
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464dbe7acdee32260800000000000000
+      internalID: 7071758471379276900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 97
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee707100f95794d0800000000000000
+      internalID: -3127932528834347287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f9da5acc8192920800000000000000
+      internalID: 2965929096832196405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 42
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fd94869f22b3410800000000000000
+      internalID: 1457797358976360332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 42
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859a2c58b16d2a220800000000000000
+      internalID: 2495792557213264216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 45
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a17b4353aede9e70800000000000000
+      internalID: 9123974688157692329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 42
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d38376388712be0800000000000000
+      internalID: -1503788294797247171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 45
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33576e26111e7ca50800000000000000
+      internalID: 6541444448568898867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 33
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dca5ec7a7518e0e0800000000000000
+      internalID: -2240517198791201581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 26
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff04eba65452d3480800000000000000
+      internalID: -8917930707049889537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 26
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4854db61c8cbb69d0800000000000000
+      internalID: -2779921035108203132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 26
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8febb531c2aec460800000000000000
+      internalID: 7263922199709085580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 26
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260b2e10fe0054030800000000000000
+      internalID: 3478187313742393442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 26
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21139ca47a003f0c0800000000000000
+      internalID: -4543286880572460782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 26
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819d294051ac50d70800000000000000
+      internalID: 9008828821244401944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SealSprite_31
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec8a62e286021770800000000000000
+      internalID: 8579927399308365033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 67f01591af84bab448c70e4b0794a036
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SealSprite_0: 5348014106063232427
+      SealSprite_1: -2647735010409857581
+      SealSprite_10: -3153551593464931427
+      SealSprite_11: 3164055088128158867
+      SealSprite_12: 2125624316948325325
+      SealSprite_13: 8738100550262931273
+      SealSprite_14: 2067942829215548006
+      SealSprite_15: 955375790127432043
+      SealSprite_16: 7071758471379276900
+      SealSprite_17: -3127932528834347287
+      SealSprite_18: 2965929096832196405
+      SealSprite_19: 1457797358976360332
+      SealSprite_2: -6609267449502272723
+      SealSprite_20: 2495792557213264216
+      SealSprite_21: 9123974688157692329
+      SealSprite_22: -1503788294797247171
+      SealSprite_23: 6541444448568898867
+      SealSprite_24: -2240517198791201581
+      SealSprite_25: -8917930707049889537
+      SealSprite_26: -2779921035108203132
+      SealSprite_27: 7263922199709085580
+      SealSprite_28: 3478187313742393442
+      SealSprite_29: -4543286880572460782
+      SealSprite_3: -2488020907840309302
+      SealSprite_30: 9008828821244401944
+      SealSprite_31: 8579927399308365033
+      SealSprite_4: -4771361580050088047
+      SealSprite_5: 746289068835968614
+      SealSprite_6: 3547278473377747304
+      SealSprite_7: 615477661395804908
+      SealSprite_8: -799499705839669268
+      SealSprite_9: -4129173944156279339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
