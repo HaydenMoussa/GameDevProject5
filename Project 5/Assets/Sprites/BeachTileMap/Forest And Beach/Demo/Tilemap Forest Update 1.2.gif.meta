@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tilemap Forest Update 1.2_0: -2789416881384412031
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

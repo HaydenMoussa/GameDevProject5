@@ -623,7 +623,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SeaTilemap1_0: -8623010866125155564
+      SeaTilemap1_1: -6690087650405433567
+      SeaTilemap1_10: -569101887353605248
+      SeaTilemap1_11: -5214293658391673998
+      SeaTilemap1_12: 175378252257027793
+      SeaTilemap1_13: 7038849504363050874
+      SeaTilemap1_14: -3193259920308803222
+      SeaTilemap1_15: -2222391050912223889
+      SeaTilemap1_16: 6997793364498832767
+      SeaTilemap1_17: -1350749750142024467
+      SeaTilemap1_18: 3968391251427465747
+      SeaTilemap1_2: 5880941602215858079
+      SeaTilemap1_3: -1079546288887446757
+      SeaTilemap1_4: 3843606134859720177
+      SeaTilemap1_5: 4323104707685939002
+      SeaTilemap1_6: 4477234507718236110
+      SeaTilemap1_7: -5214378274011975880
+      SeaTilemap1_8: 7776618959928591354
+      SeaTilemap1_9: 8718366111374625482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

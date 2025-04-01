@@ -398,7 +398,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BeachPlants_0: -4556476054621556317
+      BeachPlants_1: 2327510997763893379
+      BeachPlants_2: 1517140104292184147
+      BeachPlants_3: -5740135568959762259
+      BeachPlants_4: -5496276470145579200
+      BeachPlants_5: 94813443998549851
+      BeachPlants_6: -6851527318093628005
+      BeachPlants_7: 4244044782822914024
+      BeachPlants_8: -5239438589561976367
+      BeachPlants_9: -3166607218079942200
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
