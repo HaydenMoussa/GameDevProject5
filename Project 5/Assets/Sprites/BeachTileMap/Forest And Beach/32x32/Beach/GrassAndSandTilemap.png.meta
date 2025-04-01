@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GrassAndSandTilemap_0: -8375651512253612133
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

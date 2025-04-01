@@ -548,7 +548,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RiverOrLakeTilemap_0: 5673733927325507046
+      RiverOrLakeTilemap_1: -6044424989221505143
+      RiverOrLakeTilemap_10: 602482331367977588
+      RiverOrLakeTilemap_11: 3749020286929336637
+      RiverOrLakeTilemap_12: -4453370736602516337
+      RiverOrLakeTilemap_13: -7141827532282827120
+      RiverOrLakeTilemap_14: -5466427590364394022
+      RiverOrLakeTilemap_15: -8032759588229774288
+      RiverOrLakeTilemap_2: -5763988937100293473
+      RiverOrLakeTilemap_3: 3049018079598247505
+      RiverOrLakeTilemap_4: 918211428214561963
+      RiverOrLakeTilemap_5: -1291899498733165570
+      RiverOrLakeTilemap_6: 321236526530898585
+      RiverOrLakeTilemap_7: 6519955737002028541
+      RiverOrLakeTilemap_8: 6267923736230587376
+      RiverOrLakeTilemap_9: 4532644126116784963
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
