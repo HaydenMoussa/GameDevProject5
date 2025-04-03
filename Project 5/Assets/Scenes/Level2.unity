@@ -178,11 +178,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1054234208662324165, guid: b26252079f4034cdd995e610b8721b70, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 37.29004
+      value: -30.9
       objectReference: {fileID: 0}
     - target: {fileID: 1054234208662324165, guid: b26252079f4034cdd995e610b8721b70, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.681282
+      value: 20.2
       objectReference: {fileID: 0}
     - target: {fileID: 1054234208662324165, guid: b26252079f4034cdd995e610b8721b70, type: 3}
       propertyPath: m_LocalPosition.z
@@ -243,11 +243,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1054234208662324165, guid: b26252079f4034cdd995e610b8721b70, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -18.857634
+      value: 40.1
       objectReference: {fileID: 0}
     - target: {fileID: 1054234208662324165, guid: b26252079f4034cdd995e610b8721b70, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -16.45796
+      value: -7.2
       objectReference: {fileID: 0}
     - target: {fileID: 1054234208662324165, guid: b26252079f4034cdd995e610b8721b70, type: 3}
       propertyPath: m_LocalPosition.z
@@ -285,6 +285,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Seal (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8733172630790764871, guid: b26252079f4034cdd995e610b8721b70, type: 3}
+      propertyPath: convo
+      value: 
+      objectReference: {fileID: 1410958241}
     - target: {fileID: 8733172630790764871, guid: b26252079f4034cdd995e610b8721b70, type: 3}
       propertyPath: player
       value: 
@@ -9345,7 +9349,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 4281479730
   m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -9358,7 +9362,7 @@ MonoBehaviour:
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
   m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: 0
+  m_TextStyleHashCode: -1183493901
   m_overrideHtmlColors: 0
   m_faceColor:
     serializedVersion: 2
@@ -9566,7 +9570,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &702857608
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9818,11 +9822,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1054234208662324165, guid: b26252079f4034cdd995e610b8721b70, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -31.756157
+      value: -28
       objectReference: {fileID: 0}
     - target: {fileID: 1054234208662324165, guid: b26252079f4034cdd995e610b8721b70, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 22.049305
+      value: -12.4
       objectReference: {fileID: 0}
     - target: {fileID: 1054234208662324165, guid: b26252079f4034cdd995e610b8721b70, type: 3}
       propertyPath: m_LocalPosition.z
@@ -9860,6 +9864,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Seal (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8733172630790764871, guid: b26252079f4034cdd995e610b8721b70, type: 3}
+      propertyPath: convo
+      value: 
+      objectReference: {fileID: 1410958241}
     - target: {fileID: 8733172630790764871, guid: b26252079f4034cdd995e610b8721b70, type: 3}
       propertyPath: player
       value: 
@@ -10598,7 +10606,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1731996782
 RectTransform:
   m_ObjectHideFlags: 0
