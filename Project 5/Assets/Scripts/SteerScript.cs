@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using UnityEngine;
 
@@ -14,6 +15,7 @@ public class SteerScript : MonoBehaviour
 
     private Rigidbody2D body;
     private Vector2 movementDirection;
+    public PlayerConvo convo;
 
     void Start()
     {
@@ -51,6 +53,8 @@ public class SteerScript : MonoBehaviour
         {
             isInNest = true;
             nestCollider = other;
+            convo.begin();
+
         }
     }
 
@@ -88,8 +92,10 @@ public class SteerScript : MonoBehaviour
     {
         while (true)
         {
-            movementDirection = new Vector2(Random.Range(-1f, 1f), Random.Range(-1f, 1f)).normalized;
+            movementDirection = new Vector2(UnityEngine.Random.Range(-1f, 1f), UnityEngine.Random.Range(-1f, 1f)).normalized;
             yield return new WaitForSeconds(changeDirectionInterval);
         }
     }
+
+
 }
