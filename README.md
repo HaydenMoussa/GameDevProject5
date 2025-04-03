@@ -12,7 +12,7 @@ You’ve found yourself surrounded by some very strange seals that don’t like 
 
 
 Mechanics:
-Navigate with WASD. Click to skip dialogue. 
+Navigate with WASD. Press E to skip dialogue. 
 
 
 Aesthetics: 
