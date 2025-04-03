@@ -46407,6 +46407,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 652850147}
   m_CullTransparentMesh: 1
+--- !u!4 &840129534 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1054234208662324165, guid: b26252079f4034cdd995e610b8721b70, type: 3}
+  m_PrefabInstance: {fileID: 1006045474888918666}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &889154932
 GameObject:
   m_ObjectHideFlags: 0
@@ -94816,6 +94821,7 @@ GameObject:
   - component: {fileID: 2057962624}
   - component: {fileID: 2057962629}
   - component: {fileID: 2057962630}
+  - component: {fileID: 2057962631}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -95006,6 +95012,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panel: {fileID: 1888171320}
+--- !u!114 &2057962631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2057962623}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45ceb2ea8c0dae143b54954c511cede1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  arrowPrefab: {fileID: 3748898252190961279, guid: 617ca4d524b1a944d962af723ba0c262, type: 3}
+  arrowDistance: 0.75
+  arrowScale: 0.25
+  arrowColor: {r: 1, g: 1, b: 1, a: 0}
+  targets:
+  - {fileID: 840129534}
 --- !u!1001 &1006045474888918666
 PrefabInstance:
   m_ObjectHideFlags: 0

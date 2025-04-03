@@ -16,11 +16,16 @@ public class SteerScript : MonoBehaviour
     private Rigidbody2D body;
     private Vector2 movementDirection;
     public PlayerConvo convo;
+    ArrowIndicator arrow;
+    private Transform sealTransform;
+
 
     void Start()
     {
         body = GetComponent<Rigidbody2D>();
         StartCoroutine(ChangeDirectionRoutine());
+        arrow = player.GetComponent<ArrowIndicator>();
+        sealTransform = transform;
     }
 
     void FixedUpdate()
@@ -51,6 +56,7 @@ public class SteerScript : MonoBehaviour
     {
         if (other.CompareTag("Nest")) 
         {
+            arrow.RemoveTarget(sealTransform);
             isInNest = true;
             nestCollider = other;
             convo.begin();
@@ -68,6 +74,7 @@ public class SteerScript : MonoBehaviour
     {
         if (isInNest && nestCollider != null)
         {
+            
             Vector2 newPosition = (Vector2)transform.position + movementDirection * wanderSpeed * Time.fixedDeltaTime;
             
             // new position is within the nest bounds
