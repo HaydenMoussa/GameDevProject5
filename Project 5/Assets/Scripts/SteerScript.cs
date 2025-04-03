@@ -8,7 +8,7 @@ public class SteerScript : MonoBehaviour
     public float followSpeed = 2f;
     public float wanderSpeed = 2f;
     public float followRange = 5f;
-    public float stopRange = 1f; // Distance at which the seal stops moving
+    public float stopRange = 1f;
     public float changeDirectionInterval = 2f;
     private bool isInNest = false;
     private Collider2D nestCollider;
@@ -18,7 +18,7 @@ public class SteerScript : MonoBehaviour
     public PlayerConvo convo;
     ArrowIndicator arrow;
     private Transform sealTransform;
-
+    private NestCounter nestCounter;
 
     void Start()
     {
@@ -32,7 +32,7 @@ public class SteerScript : MonoBehaviour
     {
         if (isInNest)
         {
-            Wander(); // Only wander inside the nest
+            Wander();
         }
         else
         {
@@ -52,6 +52,7 @@ public class SteerScript : MonoBehaviour
             }
         }
     }
+    
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Nest")) 
@@ -60,7 +61,17 @@ public class SteerScript : MonoBehaviour
             isInNest = true;
             nestCollider = other;
             convo.begin();
-
+            
+            nestCounter = other.GetComponent<NestCounter>();
+            if (nestCounter == null)
+            {
+                nestCounter = other.GetComponentInParent<NestCounter>();
+            }
+            
+            if (nestCounter != null)
+            {
+                nestCounter.AddSeal();
+            }
         }
     }
 
@@ -74,14 +85,10 @@ public class SteerScript : MonoBehaviour
     {
         if (isInNest && nestCollider != null)
         {
-            
             Vector2 newPosition = (Vector2)transform.position + movementDirection * wanderSpeed * Time.fixedDeltaTime;
-            
-            // new position is within the nest bounds
             Bounds bounds = nestCollider.bounds;
             newPosition.x = Mathf.Clamp(newPosition.x, bounds.min.x, bounds.max.x);
             newPosition.y = Mathf.Clamp(newPosition.y, bounds.min.y, bounds.max.y);
-
             body.MovePosition(newPosition);
         }
         else
@@ -103,6 +110,4 @@ public class SteerScript : MonoBehaviour
             yield return new WaitForSeconds(changeDirectionInterval);
         }
     }
-
-
 }

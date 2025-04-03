@@ -46422,6 +46422,7 @@ GameObject:
   m_Component:
   - component: {fileID: 889154934}
   - component: {fileID: 889154933}
+  - component: {fileID: 889154935}
   m_Layer: 0
   m_Name: SealNest
   m_TagString: Nest
@@ -46490,6 +46491,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &889154935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 889154932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03ffe3b713a7dc443a12b68d57da8bf8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  requiredSeals: 1
+  progressButton: {fileID: 981934897}
+  sceneController: {fileID: 1326371828}
 --- !u!1 &981934895
 GameObject:
   m_ObjectHideFlags: 0
@@ -46729,6 +46745,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3ae08898ddf8cc418fb17d8710aa4aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nestCounter: {fileID: 0}
 --- !u!4 &1326371829
 Transform:
   m_ObjectHideFlags: 0
@@ -95404,6 +95421,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 2057962623}
+    - target: {fileID: 8733172630790764871, guid: b26252079f4034cdd995e610b8721b70, type: 3}
+      propertyPath: nestCounter
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
