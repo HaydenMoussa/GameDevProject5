@@ -27,10 +27,11 @@ Assets:
 seal sprite sheet - https://www.spriters-resource.com/pc_computer/maplestory/sheet/22474/
 beach tile set - https://creationpier.itch.io/tilemaps-florest-and-beach
 Font - https://fonts.google.com/specimen/Chewy?query=Chewy 
+player sprite - https://kenney.nl/assets/rpg-urban-pack
 
 
 Contributions:
-Hayden
+Hayden: Implamented movement, animations, NPC steering, and various other programs.
 
 Henry worked on the Level 2 and 3 layout. He also handled the logic behind changing levels.
 
