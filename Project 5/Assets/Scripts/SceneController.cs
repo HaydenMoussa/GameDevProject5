@@ -9,16 +9,28 @@ public class SceneController : MonoBehaviour
         SceneManager.LoadScene("Game");
     }
 
-    public void LoadLevelTwo()
+    public void LoadSecondScene()
     {
         SceneManager.LoadScene("Level2");
     }
+    public void LoadLevelTwo()
+    {
+        Invoke("LoadSecondScene", 2);
+    }
 
+    public void LoadThirdScene(){
+        SceneManager.LoadScene("Level3");
+    }
     public void LoadLevelThree()
     {
-        SceneManager.LoadScene("Level3");   
+        Invoke("LoadThirdScene", 2);
     }
-    public void LoadStartMenu()
+
+    public void LoadMainMenu()
+    {
+        Invoke("ResetGame", 2);
+    }
+    public void ResetGame()
     {
         SceneManager.LoadScene("MainMenu");
     }
