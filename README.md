@@ -32,7 +32,7 @@ Font - https://fonts.google.com/specimen/Chewy?query=Chewy
 Contributions:
 Hayden
 
-Henry
+Henry worked on the Level 2 and 3 layout. He also handled the logic behind changing levels.
 
 Kate worked on the Level 1 layout and dialogue. She also added the various menu screens, including the main, credit, and tutorial menus. 
 
